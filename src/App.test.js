@@ -1,11 +1,11 @@
 
 const {suma, resta, multiplicacion, division} = require("./components/Funciones");
-
 /*
-const { CountExpenses }  = require('./components/CountExpenses');
+const CountExpenses = require('./components/CountExpenses');
+CountExpenses();
 describe( "gastos primera renderizada",() =>{
   xit ("un digito" , () => {
-    expect(CountExpenses()).toBe(0)
+    expect(sum).toBe(0)
   });
 });
 */
